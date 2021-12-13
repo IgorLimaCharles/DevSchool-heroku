@@ -1,3 +1,1 @@
-# HEROKU-MONKCHAT
-
-Repositório a parte para o armazenamento da API da aplicação WEB **monkchat**
+Repositório para a API da aplicação WEB **monkchat** armazenada no site HEROKU
